@@ -10,11 +10,16 @@ Analista e Desenvolvedora de Sistemas formada pelo **IF Baiano - Campus Guanambi
 ---
 
 ### 📚 Projetos Desenvolvidos
-* **STI Matemática** 🎓 *(TCC)*: Sistema de Tutoria Inteligente desenvolvido em **Python + Flask** para recomposição das aprendizagens em Matemática do 9º ano, com trilha adaptativa, feedback por IA via OpenRouter e painel docente. Hospedado em [sti-matematica.onrender.com](https://sti-matematica.onrender.com).
-* **CoolService** 📱: Aplicativo mobile em **Flutter + Firebase + SQLite** para gestão de Ordens de Serviço, com dashboard, modo offline e dark mode. Desenvolvido em equipe.
-* **SoliBank** 🏦: Plataforma web em **Django** para facilitar a gestão de doações e fluxo de estoque.
-* **Estágio Inclusivo** ♿: Sistema desenvolvido com **Java e Docker** para conectar estudantes a vagas de estágio.
-* **Robótica Maker** 🤖: Participação em projetos de eletrônica e programação apresentada em feiras escolares.
+
+* **STI Matemática** 🎓 *(TCC)*: Sistema de Tutoria Inteligente em **Python + Flask** para recomposição das aprendizagens em Matemática do 9º ano. Conta com diagnóstico baseado na BNCC, trilha adaptativa por nível de desempenho, feedback personalizado via IA (OpenRouter/LLMs), chat com assistente restrito ao conteúdo, painel docente com exportação em CSV e PDF, e sistema de conquistas. Hospedado em [sti-matematica.onrender.com](https://sti-matematica.onrender.com).
+
+* **SoliBank** 🏦: Plataforma web em **Django + React** para gestão de doações com API RESTful segura via **OAuth2** (Django OAuth Toolkit). Organiza todo o fluxo — cadastro de doadores, controle de estoque, pontos de coleta e distribuição para famílias e ONGs — com perfis de acesso diferenciados por token Bearer.
+
+* **CoolService** 📱: Aplicativo mobile em **Flutter + Firebase + SQLite** para gestão de Ordens de Serviço. Inclui dashboard de controle, acompanhamento de status em tempo real, modo offline via SQLite e suporte a dark mode. Desenvolvido em equipe.
+
+* **Estágio Inclusivo** ♿: Plataforma web em **Java (Servlets/JSP) + MySQL + Docker** para conectar pessoas com deficiência a vagas de estágio. Candidatos criam currículos com informações sobre deficiências e se candidatam a vagas; empresas publicam oportunidades e pesquisam perfis. Desenvolvido em equipe como projeto de POO.
+
+* **Robótica Maker** 🤖: Participação em projetos de eletrônica e programação apresentados em feiras escolares.
 
 ---
 
