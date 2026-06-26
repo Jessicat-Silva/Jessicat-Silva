@@ -1,6 +1,5 @@
-# Olá, eu sou a Jéssica Tainá! 👋
-
-Estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano - Campus Guanambi**. Tenho experiência prática no setor de tecnologia, atuando com análise de dados e gestão no sistema HubSoft.
+# Olá, eu sou Jéssica Tainá! 👋
+Analista e Desenvolvedora de Sistemas formada pelo **IF Baiano - Campus Guanambi**. Tenho experiência prática no setor de tecnologia, atuando com análise de dados e gestão no sistema HubSoft.
 
 ---
 
@@ -11,6 +10,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano - Campus 
 ---
 
 ### 📚 Projetos Desenvolvidos
+* **STI Matemática** 🎓 *(TCC)*: Sistema de Tutoria Inteligente desenvolvido em **Python + Flask** para recomposição das aprendizagens em Matemática do 9º ano, com trilha adaptativa, feedback por IA via OpenRouter e painel docente. Hospedado em [sti-matematica.onrender.com](https://sti-matematica.onrender.com).
+* **CoolService** 📱: Aplicativo mobile em **Flutter + Firebase + SQLite** para gestão de Ordens de Serviço, com dashboard, modo offline e dark mode. Desenvolvido em equipe.
 * **SoliBank** 🏦: Plataforma web em **Django** para facilitar a gestão de doações e fluxo de estoque.
 * **Estágio Inclusivo** ♿: Sistema desenvolvido com **Java e Docker** para conectar estudantes a vagas de estágio.
 * **Robótica Maker** 🤖: Participação em projetos de eletrônica e programação apresentada em feiras escolares.
@@ -20,9 +21,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano - Campus 
 ### 💻 Conhecimentos & Evolução
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java, Python, C++, HTML, CSS |
-| **Estruturas** | Django, Bootstrap |
-| **Ferramentas** | Docker, Git, Linux |
+| **Linguagens** | Java, Python, Dart, C++, HTML, CSS |
+| **Frameworks** | Django, Flask, Flutter, Bootstrap |
+| **Ferramentas** | Docker, Git, Linux, Firebase, SQLite |
+| **IA/APIs** | OpenRouter, LLMs (Llama, Gemma) |
 
 > 🚀 **Sempre aberta a aprender:** Estou em constante evolução e pronta para conhecer e trabalhar com novas linguagens, frameworks e tecnologias que o mercado exigir.
 
@@ -37,7 +39,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano - Campus 
 
 ### ✨ Sobre mim
 * **Perfil:** Trabalho em equipe, responsabilidade e comprometimento com prazos.
-* **Educação:** Cursando ADS (Previsão 2026).
+* **Educação:** ADS — IF Baiano · Campus Guanambi (2026).
 * 🔴⚫ **Flamenguista**.
 * **Localização:** Guanambi - Bahia.
 
