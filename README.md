@@ -1,5 +1,5 @@
 # Olá, eu sou Jéssica Tainá! 👋
-Analista e Desenvolvedora de Sistemas formada pelo **IF Baiano - Campus Guanambi**. Tenho experiência prática no setor de tecnologia, atuando com análise de dados e gestão no sistema HubSoft.
+Analista e Desenvolvedora de Sistemas formada pelo **IF Baiano - Campus Guanambi**. Tenho experiência prática no setor de tecnologia, atuando com análise de dados e gestão .
 
 ---
 
